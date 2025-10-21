@@ -1,4 +1,4 @@
-# CMPUT 301 : Lab 7
+# CMPUT 301 : Android UI Testing - CMPUT 301 Lab 7
 
 ## Student Details
 
@@ -15,3 +15,4 @@ List any resources used here, or simply put `N/A` if not applicable.
 | ------------ | -------- |
 | `<example1>` | `<CCID>` |
 | `<example2>` | `<CCID>` |
+
