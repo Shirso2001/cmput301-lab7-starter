@@ -23,8 +23,7 @@ import org.junit.runner.RunWith;
 public class ShowActivityTest {
 
     @Rule
-    public ActivityScenarioRule<MainActivity> rule =
-            new ActivityScenarioRule<>(MainActivity.class);
+    public ActivityScenarioRule<MainActivity> rule = new ActivityScenarioRule<>(MainActivity.class);
 
     @Before public void setUp() { Intents.init(); }
     @After  public void tearDown() { Intents.release(); }
